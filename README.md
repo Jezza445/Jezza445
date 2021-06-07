@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jezza445
 - 👀 I’m interested in any tech
-- 🌱 I’m currently learning html css python javascript
+- 🌱 I’m currently learning html, css, python, javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
